@@ -1,7 +1,6 @@
 using CompanyEmployees;
 using CompanyEmployees.Extensions;
 using CompanyEmployees.Presentation;
-using Contracts;
 using Microsoft.AspNetCore.HttpOverrides;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Formatters;
